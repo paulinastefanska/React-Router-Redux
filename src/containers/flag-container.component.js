@@ -4,6 +4,7 @@ import CountryFlagList from '../presentational/flag-list.component';
 import { getCountries } from '../actions/actions-countries';
 
 class CountryFlagContainer extends Component {
+    // eslint-disable-next-line
     constructor(props) {
         super(props);
     }
