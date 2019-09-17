@@ -1,13 +1,10 @@
 import React from 'react';
 
 const Contact = () => (
-    <h1>Countries App Company</h1>
-    <adress>
-    	331 E Evelyn Ave<br>
-    	Mountain View, CA 94041<br>
-    	USA
-    </adress>
-
+	<div>
+    	<h1>Countries App Company</h1>
+    	<h2>Mountain View, CA 94041, USA</h2>
+    </div>
 );
 
 export default Contact;
