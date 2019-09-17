@@ -1,4 +1,4 @@
-## Countries App
+## Countries App - see [DEMO](https://fervent-jang-425c72.netlify.com)
 
 In the app you can:
 - watch the flags of countries, click on the flag you are interested in and see detailed information about the selected country,
