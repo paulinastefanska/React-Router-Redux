@@ -1,13 +1,13 @@
-## Countries App - see [DEMO](https://fervent-jang-425c72.netlify.com)
+# Countries App - see [DEMO](https://fervent-jang-425c72.netlify.com)
 
 In the app you can:
 - watch the flags of countries, click on the flag you are interested in and see detailed information about the selected country,
 - remove a country from the list,
 - search for the country by name,
 - filter countries located on a specific continent.
-#### Used technologies: React Router, SPA, Redux.
+### Used technologies: React Router, SPA, Redux.
 
-<br>
+## Project details
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
