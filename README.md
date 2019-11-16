@@ -1,15 +1,21 @@
-# Countries App - see [DEMO](https://fervent-jang-425c72.netlify.com)
+# Countries App [![Netlify Status](https://api.netlify.com/api/v1/badges/6e20839a-3f27-4a3c-b03c-ea0866571fda/deploy-status)](https://app.netlify.com/sites/fervent-jang-425c72/deploys) 
+### See [DEMO](https://fervent-jang-425c72.netlify.com)
+## Tech stack:
+- HTML, CSS,
+- ReactJS,
+- Redux,
+- React Router,
+- SPA.
 
-In the app you can:
+#### The application offers basic functionalities
 - watch the flags of countries, click on the flag you are interested in and see detailed information about the selected country,
 - remove a country from the list,
 - search for the country by name,
 - filter countries located on a specific continent.
-### Used technologies: React Router, SPA, Redux.
 
 ## Project details
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for education purposes.
 
 ## Available Scripts
 
