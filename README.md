@@ -17,6 +17,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for education purposes.
 
+To hide `redux-devtools` press `ctr+H`.
+
 ## Available Scripts
 
 In the project directory, you can run:
